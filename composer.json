@@ -10,12 +10,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1.0",
-    "ext-exif": "*",
-    "ext-iconv": "*",
-    "ext-json": "*",
-    "ext-mbstring": "*",
-    "ext-xml": "*",
-    "ext-zip": "^1.10",
     "a2lix/translation-form-bundle": "1.*@dev",
     "alcaeus/mongo-php-adapter": "^1.0",
     "bower-asset/datatables": "^1.10",
