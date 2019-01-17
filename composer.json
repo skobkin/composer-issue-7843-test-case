@@ -35,8 +35,6 @@
     "nelmio/api-doc-bundle": "^2.11",
     "oneup/flysystem-bundle": "^2.0",
     "oomphinc/composer-installers-extender": "^1.1",
-    "phpoffice/phpexcel": "^1.8",
-    "phpoffice/phpspreadsheet": "^1.2",
     "ramsey/uuid-doctrine": "^1.5",
     "sensio/distribution-bundle": "~5.0",
     "sensio/framework-extra-bundle": "^3.0.2",
